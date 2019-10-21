@@ -1,5 +1,5 @@
 
-# JSON and XML
+# XML
 
 ## Introduction
 
